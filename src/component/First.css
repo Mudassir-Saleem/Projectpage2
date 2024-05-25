@@ -1,0 +1,48 @@
+
+.body
+{
+    margin: 0% ;
+    padding: 0%;
+
+}
+.first
+{
+    
+    background-color: rgb(56, 28, 105);
+    color: white;
+}
+.two
+{
+    color: white;
+    background-color: rgb(15,6,44);
+}
+
+.twoo{
+
+    background-color: rgb(26,25,73);
+
+}
+.pp
+{
+
+    background-color: rgb(36,15,73);
+    color: white;
+
+
+}
+.onep
+{
+    box-shadow: rgb(89,69,134);
+   box-shadow: 17px 18px 52px  rgb(89,69,134);
+}
+.onepp
+{
+    box-shadow: 11px 18px 52px  rgb(89,69,134);
+}
+.oneppp
+{
+    background-color: rgb(15,6,44);
+ 
+    box-shadow: 17px 18px 52px  inset rgb(89,69,134);
+    
+}
